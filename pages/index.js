@@ -19,6 +19,7 @@ export default function Index (props){
                     <meta property="og:image:width" content="359" />
                     <meta property="og:image:height" content="381" />
                     <meta property="og:image:alt" content="Dendy" />
+                    <meta name="yandex-verification" content="1c81cc6e1ce23c9a" />
                 </Head>
 
                 <div className="wrapper">
