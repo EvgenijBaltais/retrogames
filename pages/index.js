@@ -28,9 +28,10 @@ export default function Index (props){
                         <h1 className="h1">Коллекция лучших игр для приставки Денди.</h1>
                         <p className="p">Играйте прямо на нашем сайте - это абсолютно бесплатно.</p>
                         <div className = "main-games">
+                            <div className = "main-game-item super-mario-bros"></div>
                             <div className = "main-game-item"></div>
                             <div className = "main-game-item"></div>
-                            <div className = "main-game-item"></div>                            <div className = "main-game-item"></div>
+                            <div className = "main-game-item"></div>
                             <div className = "main-game-item"></div>
                             <div className = "main-game-item"></div>
                             <div className = "main-game-item"></div>

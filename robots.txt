@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /node_modules
+
+Host: https://nostalgia-games.ru
+Sitemap: https://nostalgia-games.ru/sitemap.xml
