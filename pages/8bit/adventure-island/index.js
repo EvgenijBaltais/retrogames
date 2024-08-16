@@ -5,7 +5,7 @@ export default function Index (props){
         return (
             <>
                 <Head>
-                    <title>Super Mario Bros.</title>
+                    <title>Contra</title>
                     <link rel="canonical" href="https://nostalgia-games.ru" />
                     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
                     <meta name="description" content="На нашем сайте можно бесплатно поиграть онлайн в старые добрые игры для денди" />
@@ -24,11 +24,11 @@ export default function Index (props){
                 <div className="wrapper">
                     <div className = "main-wrapper fixed-width">
 
-                        <h1 className="h1">Игра для Денди Марио (Super Mario Bros.)</h1>
+                        <h1 className="h1">Игра для Денди Adventure Island</h1>
                         <p className="p">Играйте прямо на нашем сайте - это абсолютно бесплатно.</p>
 
                         <div className="game-frame-w">
-                            <iframe className="game-frame" src="https://www.retrogames.cc/embed/44361-super-mario-bros-tweaked.html" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+                            <iframe  className="game-frame"src="https://www.retrogames.cc/embed/20528-hudson-s-adventure-island-usa.html" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
                         </div>
                     </div>
                 </div>
