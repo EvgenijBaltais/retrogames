@@ -5,14 +5,14 @@ export default function Index (props){
         return (
             <>
                 <Head>
-                    <title>Contra</title>
-                    <link rel="canonical" href="https://nostalgia-games.ru" />
+                    <title>Контра (Contra) на денди - играть онлайн на нашем сайте</title>
+                    <link rel="canonical" href="nostalgia-games.ru/8bit/contra/" />
                     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-                    <meta name="description" content="На нашем сайте можно бесплатно поиграть онлайн в старые добрые игры для денди" />
-                    <meta name="keywords" content="денди онлайн играть бесплатно, игры денди играть онлайн, эмулятор денди играть онлайн" />
-                    <meta property="og:url" content="https://nostalgia-games.ru" />
-                    <meta property="og:title" content="Лучшие игры для денди для настоящих любителей" />
-                    <meta property="og:description" content="На нашем сайте можно бесплатно поиграть онлайн в старые добрые игры для денди" />
+                    <meta name="description" content="Хотите поиграть в любимую игру Контра (Contra) на денди онлайн? Тогда добро пожаловать к нам!" />
+                    <meta name="keywords" content="супер контра денди, контра денди онлайн, контра денди играть онлайн" />
+                    <meta property="og:url" content="nostalgia-games.ru/8bit/contra/" />
+                    <meta property="og:title" content="Контра (Contra) на денди - играть онлайн на нашем сайте" />
+                    <meta property="og:description" content="Хотите поиграть в любимую игру Контра (Contra) на денди онлайн? Тогда добро пожаловать к нам!" />
                     <meta property="og:type" content="website" />
                     <meta property="og:image" content="/fon.png" />
                     <meta property="og:image:type" content="image/jpg" />
