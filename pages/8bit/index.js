@@ -29,6 +29,7 @@ export default function Index (props){
                         <div className = "main-games">
                             <Link href = "/8bit/super-mario-brothers" className = "main-game-item  super-mario-bros"></Link>
                             <Link href = "/8bit/contra" className = "main-game-item contra"></Link>
+                            <Link href = "/8bit/battle-city" className = "main-game-item battle-city"></Link>
                             <Link href = "/8bit/chip-i-dale" className = "main-game-item chip-i-dale"></Link>
                             <Link href = "/8bit/adventure-island" className = "main-game-item adventure-island"></Link>
                         </div>

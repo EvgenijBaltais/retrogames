@@ -123,6 +123,10 @@ body {
 	background-image: url("/consoles/sega.jpg");
 }
 
+.battle-city {
+	background-image: url("/games-pics/min/battle-city.png");
+}
+
 .game-frame-w {
 	margin: 50px 0;
 }
