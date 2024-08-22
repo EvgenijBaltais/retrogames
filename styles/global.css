@@ -136,6 +136,20 @@ body {
 	height: 650px;
 }
 
+.not-found-page {
+	position: absolute;
+	top: 0;
+	right: 0;
+	top: 0;
+	width: 100%;
+	height: 100vh;
+	margin: 0;
+	text-align: center;
+	z-index: 5;
+	padding-top: 200px;
+	background-color: #fff;
+}
+
 @media only screen and (max-width: 768px) {
 	.fixed-width {
 		margin: 0 10px;
