@@ -22,8 +22,17 @@ export default function Index (props){
                 </Head>
 
                 <div className="wrapper">
+                    <nav className = "nav fixed-width">
+                        <ul className = "nav-list">
+                            <li className = "nav-list-item">
+                                <Link href = "/8bit" className = "nav-list-link">Играть в Dendy</Link>
+                            </li>
+                            <li className = "nav-list-item">
+                                <Link href = "/8bit" className = "nav-list-link">Играть в Sega</Link>
+                            </li>
+                        </ul>
+                    </nav>
                     <div className = "main-wrapper fixed-width">
-
                         <h1 className="h1">Коллекция лучших игр для приставки Денди.</h1>
                         <p className="p">Играйте прямо на нашем сайте - это абсолютно бесплатно.</p>
                         <div className = "main-games">

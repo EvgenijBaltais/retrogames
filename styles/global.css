@@ -115,6 +115,10 @@ body {
 	background-image: url("/games-pics/min/chip-i-dale.png");
 }
 
+.tiny-toon-adventures {
+	background-image: url("/games-pics/min/tiny-toon-adventures.png");
+}
+
 .dendy {
 	background-image: url("/consoles/dendy.jpg");
 }
@@ -149,6 +153,24 @@ body {
 	padding-top: 200px;
 	background-color: #fff;
 }
+
+/* Nav */
+
+.nav-list {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+	list-style-type: none;
+}
+
+.nav-list-link {
+	color: #000;
+	font-size: 18px;
+	padding: 0 10px;
+}
+
+/* Nav, конец */
 
 @media only screen and (max-width: 768px) {
 	.fixed-width {
