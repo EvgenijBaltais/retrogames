@@ -12,6 +12,16 @@ const Header = () => {
 					<Image className="main-logo" src={Logo} alt="Nostalgia-games.ru" />
 				</Link>
 			</div>
+            <nav className = "nav fixed-width">
+                <ul className = "nav-list">
+                    <li className = "nav-list-item">
+                        <Link href = "/8bit" className = "nav-list-link">Играть в Dendy</Link>
+                    </li>
+                    <li className = "nav-list-item">
+                        <Link href = "/8bit" className = "nav-list-link">Играть в Sega</Link>
+                    </li>
+                </ul>
+            </nav>
 		</header>
     )
 }
