@@ -7,6 +7,7 @@ export default function Index (props){
             <>
                 <Head>
                     <title>Старые добрые игры для приставок dendy и sega - играть онлайн бесплатно</title>
+                    <link rel="canonical" href="https://nostalgia-games.ru" />
                     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
                     <meta name="description" content="" />
                     <meta name="keywords" content="" />
